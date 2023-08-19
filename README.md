@@ -1,5 +1,4 @@
 # Design-of-Self-Sustainable-Township
 
 
-
-file:///Users/bv/Downloads/Design%20Project%20Report.pdf
+Project Report can be found in "Design Project Report.pdf"
